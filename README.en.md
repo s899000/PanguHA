@@ -17,4 +17,11 @@ It can be used to set up processes and Windows service groups, and ensure that p
 ### 3.  Resource mirroring (under development)
 
 
+### 4.  Contact information
+
+![1694855799819](https://github.com/s899000/PanguHA/assets/33239560/8ae631b2-ca08-41f6-9521-60c4c82943d6)
+
+email 435031783@qq.com
+
+
 
