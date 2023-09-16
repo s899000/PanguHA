@@ -14,7 +14,7 @@ Provide a cluster IP externally, and this IP will always be set only on the acti
 It can be used to set up processes and Windows service groups, and ensure that processes and Windows services only run on one node (active node).
 ![1694848255972](https://github.com/s899000/PanguHA/assets/33239560/a0f7efbb-c94f-4dfa-af9a-1c0de08286d3)
 
-### 3.  xxxx
-Resource mirroring (under development)
+### 3.  Resource mirroring (under development)
+
 
 
