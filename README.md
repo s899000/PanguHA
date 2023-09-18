@@ -20,7 +20,10 @@ PanguHA是Windows平台的双机集群系统，是提供系统高可用性的解
 
 ### 3. 资源镜像（开发中）
 
-### 4. 联系方式
+### 4.操作说明
+详见 https://blog.csdn.net/sss899000/article/details/132921678?spm=1001.2014.3001.5502
+
+### 5. 联系方式
 
 ![1694855799819](https://github.com/s899000/PanguHA/assets/33239560/497507eb-0b23-4bbf-bd43-4e553b727496)
 
