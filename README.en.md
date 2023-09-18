@@ -7,12 +7,14 @@ PanguHA is a dual machine cluster system on the Windows platform, providing a hi
 
 ### 1.  IP drift
 Provide a cluster IP externally, and this IP will always be set only on the active host. When a node goes down, this IP will automatically drift to the node that has not gone down. The backup node will be upgraded to the active node, and the IP of the system site and database can be set as the cluster IP to improve system availability without being aware of business.
-![1694848438588](https://github.com/s899000/PanguHA/assets/33239560/6ec696ec-4901-4a3c-a126-a207e0c0a972)
+![1695042278763](https://github.com/s899000/PanguHA/assets/33239560/3bf53b17-23cd-4732-b720-adaede5ab473)
+
 
 
 ### 2.  Execution Management
 It can be used to set up processes and Windows service groups, and ensure that processes and Windows services only run on one node (active node).
-![1694848255972](https://github.com/s899000/PanguHA/assets/33239560/a0f7efbb-c94f-4dfa-af9a-1c0de08286d3)
+![1695042578069](https://github.com/s899000/PanguHA/assets/33239560/e5d75c14-b425-41e3-8e57-cfd1d2917ece)
+
 
 ### 3.  Resource mirroring (under development)
 
