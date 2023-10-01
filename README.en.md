@@ -16,13 +16,20 @@ It can be used to set up processes and Windows service groups, and ensure that p
 ![1695042578069](https://github.com/s899000/PanguHA/assets/33239560/e5d75c14-b425-41e3-8e57-cfd1d2917ece)
 
 
-### 3.  Resource mirroring (under development)
+### 3.  File synchronization
+By using NFS shared files, it is possible to synchronize files on a certain path between two servers, using mirror replication. The primary node pushes differential files to the backup node, and the backup node always remains the same as the primary node. At the same time, filter conditions can be set to ignore folders or files with fixed names or suffixes
+![文件同步](https://github.com/s899000/PanguHA/assets/33239560/869c8768-3f51-4e4e-8287-b3fb6595f270)
 
 
-### 4.  Operating instructions
+### 4.  Mariadb/Mysql dual master replication one click deployment
+![Mysql双主](https://github.com/s899000/PanguHA/assets/33239560/f66151fe-150b-43e4-9dd5-64cf5b31e34d)
+
+
+
+### 5.  Operating instructions
 https://blog.csdn.net/sss899000/article/details/132921678?spm=1001.2014.3001.5502
 
-### 5.  Contact information
+### 6.  Contact information
 
 ![1694855799819](https://github.com/s899000/PanguHA/assets/33239560/8ae631b2-ca08-41f6-9521-60c4c82943d6)
 
