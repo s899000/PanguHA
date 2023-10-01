@@ -24,12 +24,12 @@ PanguHA是Windows平台的双机集群系统，是提供系统高可用性的解
 ![文件同步](https://github.com/s899000/PanguHA/assets/33239560/4f216fbf-9bac-4ad7-afe1-a8f19305d002)
 
 ### 4. Mariadb/Mysql双主复制一键部署
-
+![Mysql双主](https://github.com/s899000/PanguHA/assets/33239560/a54f713d-d8bb-4bf5-8262-8d14f13d5a42)
 
 
 ### 5.操作说明
 https://blog.csdn.net/sss899000/article/details/132921678?spm=1001.2014.3001.5502
-![Mysql双主](https://github.com/s899000/PanguHA/assets/33239560/a54f713d-d8bb-4bf5-8262-8d14f13d5a42)
+
 
 
 
