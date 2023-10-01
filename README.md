@@ -18,16 +18,22 @@ PanguHA是Windows平台的双机集群系统，是提供系统高可用性的解
 ![1695042578069](https://github.com/s899000/PanguHA/assets/33239560/75f73f38-f727-4a67-8647-0297effb3be1)
 
 
-### 3. 资源镜像（开发中）
+### 3. 文件同步
+利用NFS共享文件，可以同步两个服务器某个路径下的文件，采用镜像复制，主节点向备节点推送差异文件， 备节点始终和主节点保持相同，
+同时可以设置过滤条件忽略文件夹或者固定名称或后缀的文件
+![文件同步](https://github.com/s899000/PanguHA/assets/33239560/4f216fbf-9bac-4ad7-afe1-a8f19305d002)
+
+### 4. Mariadb/Mysql双主复制一键部署
 
 
 
-### 4.操作说明
+### 5.操作说明
 https://blog.csdn.net/sss899000/article/details/132921678?spm=1001.2014.3001.5502
+![Mysql双主](https://github.com/s899000/PanguHA/assets/33239560/a54f713d-d8bb-4bf5-8262-8d14f13d5a42)
 
 
 
-### 5. 联系方式
+### 6. 联系方式
 
 ![1694855799819](https://github.com/s899000/PanguHA/assets/33239560/497507eb-0b23-4bbf-bd43-4e553b727496)
 
