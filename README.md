@@ -1,5 +1,9 @@
 # PanguHA
 
+#### 特别说明
+github不再更新，请移至码云获取最新版本
+https://gitee.com/AaronE_2890620459/pangu-ha
+
 #### 介绍
 PanguHA是Windows平台的双机集群系统，是提供系统高可用性的解决方案，一般由两个节点构成，分为活动节点及备用节点。
 
